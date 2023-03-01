@@ -22,7 +22,7 @@ Once you have Python installed, you can clone this repository to your local mach
 
 ## Projects
 
-This section contains the projects I've completed while working through the book:
+This section will contain the projects I've completed while working through the book:
 
 
 

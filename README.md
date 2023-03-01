@@ -50,7 +50,8 @@ Here are some regular expression patterns and their meanings:
 - `\D`, `\W`, and `\S` match anything except a digit, word, or space character, respectively.
 - `[abc]` matches any character between the brackets (such as a, b, or c).
 - `[^abc]` matches any character that isn’t between the brackets.
-
+- succeed the string with `re.I` to ignore case matching
+- `.sub ` method for Regex objects is passed two arguments. The first argument is a string to replace any matches the second is the string for the regular expression
 
 
 ## Contributing

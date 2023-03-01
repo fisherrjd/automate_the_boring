@@ -1,6 +1,6 @@
 # Automate the Boring Stuff with Python - New Edition
 
-![Automate the Boring Stuff with Python](https://nostarch.com/sites/default/files/absp_0.png)
+
 
 Welcome to my Git repository where I share my learnings from the book "Automate the Boring Stuff with Python" by Al Sweigart (New Edition). This repository contains code snippets, projects, and other resources that I've created while working through the book.
 

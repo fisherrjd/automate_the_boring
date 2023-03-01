@@ -24,20 +24,13 @@ Once you have Python installed, you can clone this repository to your local mach
 
 This section contains the projects I've completed while working through the book:
 
-- Project 1: Mad Libs Generator
-- Project 2: Guess the Number Game
-- Project 3: Hangman Game
-- Project 4: Tic Tac Toe Game
-- Project 5: Blackjack Game
-- Project 6: Renaming Files
+
 
 ## Code Snippets
 
 This section contains various code snippets that I found helpful while working through the book:
 
-- Code Snippet 1: Using the `requests` Module to Download Web Pages
-- Code Snippet 2: Parsing HTML with `beautifulsoup4`
-- Code Snippet 3: Sending Email with `smtplib`
+
 
 ## Contributing
 

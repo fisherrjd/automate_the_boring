@@ -34,7 +34,7 @@ This section contains various code snippets that I found helpful while working t
 
 Here are some regular expression patterns and their meanings:
 
-- groups are created using `()` number ordered using .group(1) or a list with .groups()
+- groups are created using `()` number ordered using `.group(1)` or a list with `.groups()`
 - The `?` matches zero or one of the preceding group.
 - The `*` matches zero or more of the preceding group.
 - The `+` matches one or more of the preceding group.

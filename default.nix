@@ -16,7 +16,8 @@ let
       nixpkgs-fmt
     ];
     python = [
-      (python310.withPackages (p: with p; [
+      (python311.withPackages (p: with p; [
+        pandas
         requests
       ]))
     ];
